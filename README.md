@@ -8,3 +8,4 @@ Based on "Angular, Postgres, and Bootstrap, 2nd Edition" book.
 - **Database adapter: postgresql**
 - **PostgreSQL 13.1**
 - **Bootstrap 4**
+- **Angular 11**
